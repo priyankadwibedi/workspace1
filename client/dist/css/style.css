@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+#searchInput {
+ width:1200px;
+
+}
+
+.navbar-brand {
+ padding: 13px 20px;
+}
+
+#list{
+    margin-top: 20px;
+}
+
+.jumbotron{
+    margin-top:1px;
+}
+
+.active{
+    color:blue;
+}
+
+#main{
+    margin-top: 20px;
+}
+
+#search{
+    padding: 5px 0px;
+}
+
+#space{
+    margin-right: 5px;
+}
